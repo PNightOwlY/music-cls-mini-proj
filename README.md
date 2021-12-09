@@ -6,3 +6,5 @@ To your help, you are provided a training dataset with 750 songs, each of which 
 
 ## Dataset
 The data set to classify is available as songs_to_classify.csv, and the training data is available as training_data.csv on Studium. The columns in these tables represent extracted features, as specified by the header and documented in Table 1. The column "label" in training_data.csv is encoded as 1 = LIKE and 0 = DISLIKE.
+## Data type
+![image](https://user-images.githubusercontent.com/53885509/145490955-c70983dd-acb2-4405-8916-21b3f213ad6d.png)
