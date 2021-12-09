@@ -24,4 +24,4 @@ The data set to classify is available as songs_to_classify.csv, and the training
 We used our GBDT method and got first place on the leaderboard.
 <p>
   </p>
-![196C8B04F609CBDCA7D7CC4A64C74ADE](https://user-images.githubusercontent.com/53885509/145491375-a01a173a-7a0c-4021-8a3e-aacb595c76bc.jpg)
+![196C8B04F609CBDCA7D7CC4A64C74ADE](https://user-images.githubusercontent.com/53885509/145491528-288d04bc-e8af-49dd-b962-82140c5be1e7.jpg)
