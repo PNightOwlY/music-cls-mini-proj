@@ -11,9 +11,11 @@ The data set to classify is available as songs_to_classify.csv, and the training
 ## Result
 
 <p float="left">
-  <img src="/result/GBDT.png" width="300" />
-  <img src="/result/CART.png" width="300" />
-  <img src="/result/LR.png" width="300" />
-    <img src="/result/KNN.png" width="300" />
+  <img src="/result/GBDT.png" width="500" />
+  <img src="/result/CART.png" width="500" />
+</p>
+<p float="left">
+  <img src="/result/LR.png" width="500" />
+    <img src="/result/KNN.png" width="500" />
 
 </p>
